@@ -1,7 +1,7 @@
 ### Hello everyone, I am Ramon Jales! 
 
 - 🌱 I’m currently undergraduate student of bachelor of information technology at UFRN-IMD.
-- 🔭 I'm interested in computer science: theory, math, web development...
+- 🔭 I'm interested in computer science: theory, math, software engineer...
 - 🔬 Now i'm learning Java, Spring Boot, Docker, NodeJs, PostgresSQL, MongoDB and other things.
 
 <div align="center">
